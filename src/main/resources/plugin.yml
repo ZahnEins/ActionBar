@@ -1,0 +1,5 @@
+name: Actionbar
+version: ${project.version}
+main: simple.actionbar.Actionbar
+api-version: 1.13
+authors: [ZahnEins]

@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="ActionBar:jar">
+    <output-path>$USER_HOME$/Desktop/SeverTest For Plugin/ห้องทดลอง 2/plugins</output-path>
+    <root id="archive" name="ActionBar.jar">
+      <element id="module-output" name="ActionBar" />
+    </root>
+  </artifact>
+</component>
